@@ -1,0 +1,4 @@
+Symbol,Quantity,Price
+Feathercoin,12000,0.05
+Bitcoin,3,500
+Quatloo,1432,0.005
